@@ -6,7 +6,7 @@ import base64
 import requests
 import json
 
-subscription_key = '915abf3a916249adb70b0818d85025ee'
+subscription_key = '!SECRETKEY' #Key goes here.
 
 
 base_url = 'https://eastasia.api.cognitive.microsoft.com'
